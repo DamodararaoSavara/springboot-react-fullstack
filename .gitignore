@@ -60,4 +60,4 @@ build/
 !**/src/test/**/build/
 
 # === OS-specific ===
-Thumbs.db
+Thumbs.db"backend/.env.txt" 
